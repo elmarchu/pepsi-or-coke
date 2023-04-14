@@ -5,6 +5,6 @@ Follow the instructions here: https://docs.streamlit.io/streamlit-cloud/get-star
 
 Finally add to your secrets file your Cogniflow model URL and your API Key:
 
-![secrets](https://github.com/cogniflow/image-streamlit/raw/main/secrets.png)
+![secrets](https://github.com/elmarchu/pepsi-or-coke/blob/main/secrets.png)
 
 
